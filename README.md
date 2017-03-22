@@ -1,3 +1,3 @@
 # kmspike
 learn to anything (Experimental place)
-add PULL REQ
+add PULL REQUEST
