@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("atom-go")
 	fmt.Println("test-go")
 	fmt.Println("pull-request-test")
+	fmt.Println("pull-request-test2")
 }
